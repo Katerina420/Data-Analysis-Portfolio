@@ -30,4 +30,4 @@ RawData folder contains the raw dataset
 
 ## Features of Analysis
 
-<img src="">
+<img src="images/educational_score.png">
