@@ -31,3 +31,21 @@ RawData folder contains the raw dataset
 ## Features of Analysis
 
 <img src="images/educational_score.png">
+
+This figure gives the distribution of scores in different parental education backgrounds and student gender.
+
+It is notable that male students have higher math scores when their parents had a higher level of education, but for reading and writing subjects, it is the other way around.
+
+When it comes to female students, they could get greater scores on reading and writing exams, but they could not get the same results on math.
+
+<img src="images/lunch_score.png">
+
+The figure illustrates the distribution of three subjects by different types of lunch  and gender.
+All of the students who had standard lunch gained greater scores, there were more students whose scores excess 90 on all subjects.
+
+
+## Thank you for your time
+If you enjoy it and want to check codes and other figures, it would be better to run the analysis file, there are all details of the whole comparison.
+
+
+
