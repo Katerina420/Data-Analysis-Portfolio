@@ -51,7 +51,7 @@ All of the students who had standard lunch gained greater scores, there were mor
 If you enjoy it and want to check codes and other figures, it would be better to run the analysis file, there are all details of the whole comparison.
 
 ## Interactive Dashboard of trend of video games by Excel PivotTable
-Interactive Dashboard is one of most convenient method to conclude whold data analysis and present to your audiences. I made an interactive dashboard, contains the trend of video games from 1980 to 2020, through three individual Excel spreadsheets.
+Interactive Dashboard is one of most convenient method to combine whold data analysis and present to your audiences. I made an interactive dashboard, contains the trend of video games from 1980 to 2020, through three individual Excel spreadsheets.
 
 So you can run the PivotTable Project file to check dashboard, there is an instruction on the second sheet if you need it.
 
