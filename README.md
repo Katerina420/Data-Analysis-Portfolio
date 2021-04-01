@@ -1,7 +1,7 @@
 # Projects of Data Analysis
-1. Data analysis of Student exams profermance dataset by Python
+  Data analysis of Student exams profermance dataset by Python
 
-2. Interactive Dashboard of trend of video games by Excel PivotTable
+  Interactive Dashboard of trend of video games by Excel PivotTable
 
 ## Data analysis of Student exams profermance dataset
 Data analysis is also referred to as exploratory data analysis (EDA), which is one of core components of data science. By taking advantage of EDA, analysts can figure out the relationship between features and target variables, hence, data scientists, data engineers and data analysts spend their majority of time and effort to dig out those relationships. In the meantime, except discovering relationships, EDA can offer an opportunity to make smart decisions. This repository demonstrates the common steps and techniques of EDA. For the purpose of illustration and easy understanding, I used the Student Exams Performance dataset which has been taken from Kaggle(original resource as shown below).
