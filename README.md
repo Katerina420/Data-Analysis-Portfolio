@@ -50,6 +50,8 @@ All of the students who had standard lunch gained greater scores, there were mor
 
 If you enjoy it and want to check codes and other figures, it would be better to run the analysis file, there are all details of the whole comparison.
 
+In addition, there is BrootStrap Resamping in this file, which is an application of Applied Statistics. Hope you enjoy it.
+
 ## Interactive Dashboard of trend of video games by Excel PivotTable
 Interactive Dashboard is one of most convenient method to combine whold data analysis and present to your audiences. I made an interactive dashboard, contains the trend of video games from 1980 to 2020, through three individual Excel spreadsheets.
 
