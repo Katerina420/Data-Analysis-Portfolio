@@ -48,14 +48,15 @@ When it comes to female students, they could get greater scores on reading and w
 The figure illustrates the distribution of three subjects by different types of lunch  and gender.
 All of the students who had standard lunch gained greater scores, there were more students whose scores excess 90 on all subjects.
 
-If you enjoy it and want to check codes and other figures, it would be better to run the analysis file, there are all details of the whole comparison.
+If you enjoy it and want to check codes and other figures, it would be better to run the analysis file, there are all details of the [whole comparison](https://github.com/Katerina420/Data-Analysis-Portfolio/blob/main/PivotTable%20Project/Dashboard%20Project.xlsm).
 
-In addition, there is BrootStrap Resamping in this file, which is an application of Applied Statistics. Hope you enjoy it.
+In addition, there is [BrootStrap Resamping](https://github.com/Katerina420/Data-Analysis-Portfolio/blob/main/Analysis/Bootstrap%20Resampling.ipynb)
+) in this file, which is an application of Applied Statistics. Hope you enjoy it.
 
 ## Interactive Dashboard of trend of video games by Excel PivotTable
 Interactive Dashboard is one of most convenient method to combine whold data analysis and present to your audiences. I made an interactive dashboard, contains the trend of video games from 1980 to 2020, through three individual Excel spreadsheets.
 
-So you can run the PivotTable Project file and download Dashboard Project.xlsm to check dashboard, there is an instruction on the second sheet if you need it.
+So you can run the PivotTable Project file and download [Dashboard Project.xlsm](https://github.com/Katerina420/Data-Analysis-Portfolio/blob/main/PivotTable%20Project/Dashboard%20Project.xlsm!) to check dashboard, there is an instruction on the second sheet if you need it.
 
 ## Thank you for your time
 
